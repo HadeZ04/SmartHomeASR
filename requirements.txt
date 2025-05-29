@@ -1,0 +1,29 @@
+# === requirements.txt ===
+# Core Python modules (standard)
+
+# Audio and ML
+pyaudio
+numpy
+tensorflow
+keras
+librosa
+
+# GPIO and hardware
+gpiozero
+adafruit-circuitpython-dht
+RPLCD
+
+# Media
+python-vlc
+
+# UI
+Pillow
+
+# Command matching
+fuzzywuzzy
+python-Levenshtein
+
+# Optional for better compatibility
+espeak
+
+
