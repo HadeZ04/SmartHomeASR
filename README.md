@@ -7,7 +7,7 @@ A Raspberry Pi-based voice-controlled smart home assistant with support for:
 - Music playback (via VLC)
 - GUI control panel (Tkinter)
 ## DEMO
-[![Xem demo](https://img.youtube.com/vi/YEjlg2-8C68/maxresdefault.jpg)](https://youtu.be/YEjlg2-8C68)
+[![Xem demo]([https://img.youtube.com/vi/YEjlg2-8C68/maxresdefault.jpg)](https://youtu.be/YEjlg2-8C68](https://youtu.be/KYMTGdMLUcA))
 ---
 
 ## 🚀 Features
