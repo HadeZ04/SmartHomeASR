@@ -1,4 +1,3 @@
-# === README.md ===
 
 # 🏠 Smart Home Assistant
 
@@ -7,7 +6,8 @@ A Raspberry Pi-based voice-controlled smart home assistant with support for:
 - GPIO control (lights, fans, PIR sensor, DHT11)
 - Music playback (via VLC)
 - GUI control panel (Tkinter)
-
+## DEMO
+[![Xem demo](https://img.youtube.com/vi/YEjlg2-8C68/maxresdefault.jpg)](https://youtu.be/YEjlg2-8C68)
 ---
 
 ## 🚀 Features
